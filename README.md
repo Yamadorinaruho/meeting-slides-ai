@@ -1,1 +1,1 @@
-# product-slides-ai
+# meeting-slides-ai
