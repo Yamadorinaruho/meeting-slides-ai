@@ -1,0 +1,4 @@
+{
+  "/api/narrate/route": "app/api/narrate/route.js",
+  "/page": "app/page.js"
+}
